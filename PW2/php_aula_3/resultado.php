@@ -17,10 +17,10 @@
             return $n1 / $n2;
         } 
 
-        $_POST(soma);
-        $_POST(subtrair);
-        $_POST(multiplicar);
-        $_POST(divir);
+        echo "O resultado da soma é: " .$_POST(soma);
+        echo "O resultado da subtração é: " .$_POST(subtrair);
+        echo "O resultado da multiplicação é: " .$_POST(multiplicar);
+        echo "O resultado da divisão é: " .$_POST(divir);
         ?>
 
         
