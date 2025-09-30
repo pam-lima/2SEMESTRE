@@ -1,6 +1,6 @@
 <?php
 
-include "funcoes_calculadora.php";
+include "funcoes_calculadora_aula3.php";
 
         $n1 = $_POST['n1'];
         $n2 = $_POST['n2'];
