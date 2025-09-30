@@ -6,7 +6,7 @@
     <title>Calculadora</title>
 </head>
 <body>
-    <form action="resultado_calculadora.php" method="post">
+    <form action="resultado.php" method="post">
         <Label for="Digite o primeiro número">Numero 1:</Label>
         <input type="number" name="n1"> 
         <label for="Digite o segundo número">Numero 2:</label>

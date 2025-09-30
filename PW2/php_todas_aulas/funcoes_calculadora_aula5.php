@@ -6,7 +6,7 @@ private $num2;
 private $result;
 
 public function mostrarResultado() {
-    echo "<br>" .$this -> result."<br>";
+    echo "<br>O resultado da operação é: " .$this -> result."<br>";
 
 }
 
@@ -23,7 +23,7 @@ public function mostrarResultado() {
     }
 
     public function dividir($num1, $num2) {
-        if ($b == 0) {
+        if ($num2 == 0) {
             throw new Exception("Divisão por zero não é permitida.");
         }
         return $this ->result = $num1 / $num2;

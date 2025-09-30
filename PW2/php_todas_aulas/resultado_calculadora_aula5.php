@@ -26,5 +26,9 @@ case "dividir":
 $result->dividir($num1, $num2);
 $result->mostrarResultado();
 break;
+
+default:
+die("Algo deu errado, tente novamente!");
+break;
 }
 ?>
