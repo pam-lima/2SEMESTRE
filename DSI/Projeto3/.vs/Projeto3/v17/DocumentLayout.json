@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab1053\\Documents\\Projeto3_C#\\Projeto3\\",
+  "WorkspaceRootPath": "C:\\Users\\pamel\\Documents\\2SEMESTRE\\DSI\\Projeto3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8287A4BD-E96B-4622-9313-D9C2D89076ED}|Projeto3.csproj|c:\\users\\lab1053\\documents\\projeto3_c#\\projeto3\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8287A4BD-E96B-4622-9313-D9C2D89076ED}|Projeto3.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8287A4BD-E96B-4622-9313-D9C2D89076ED}|Projeto3.csproj|C:\\Users\\pamel\\Documents\\2SEMESTRE\\DSI\\Projeto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8287A4BD-E96B-4622-9313-D9C2D89076ED}|Projeto3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8287A4BD-E96B-4622-9313-D9C2D89076ED}|Projeto3.csproj|C:\\Users\\lab1053\\Documents\\Projeto3_C#\\Projeto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8287A4BD-E96B-4622-9313-D9C2D89076ED}|Projeto3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8287A4BD-E96B-4622-9313-D9C2D89076ED}|Projeto3.csproj|c:\\users\\pamel\\documents\\2semestre\\dsi\\projeto3\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8287A4BD-E96B-4622-9313-D9C2D89076ED}|Projeto3.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab1053\\Documents\\Projeto3_C#\\Projeto3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pamel\\Documents\\2SEMESTRE\\DSI\\Projeto3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lab1053\\Documents\\Projeto3_C#\\Projeto3\\Program.cs",
+              "ToolTip": "C:\\Users\\pamel\\Documents\\2SEMESTRE\\DSI\\Projeto3\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T22:37:06.385Z"
+              "WhenOpened": "2025-08-19T22:37:06.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\lab1053\\Documents\\Projeto3_C#\\Projeto3\\Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\pamel\\Documents\\2SEMESTRE\\DSI\\Projeto3\\Pessoa.cs",
               "RelativeDocumentMoniker": "Pessoa.cs",
-              "ToolTip": "C:\\Users\\lab1053\\Documents\\Projeto3_C#\\Projeto3\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\pamel\\Documents\\2SEMESTRE\\DSI\\Projeto3\\Pessoa.cs",
               "RelativeToolTip": "Pessoa.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T22:37:31.69Z",
               "EditorCaption": ""

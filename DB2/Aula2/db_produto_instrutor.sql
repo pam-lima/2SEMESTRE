@@ -81,3 +81,26 @@ SET val_prod = val_prod * 1.1
 WHERE Tipo_prod='Eletrônico' 
 OR val_prod >= 700;
 
+-- IN (OPÇÃO DO OR, PARA BUSCAR EM DOIS VALORES OU MAIS)  .....................................................................
+
+SELECT * FROM produtos
+WHERE Tipo_prod IN ('Eletrônicos','informática');
+
+-- BETWEEN (BUSCA ENTRE VALORES)  ...............................................................................
+
+SELECT * FROM produtos
+WHERE Val_prod BETWEEN 300 AND 500;
+
+-- NOT BETWEEN (BUSCA FORA DOS INTERVALOS)   ................................................................................
+
+SELECT * FROM produtos
+WHERE Val_prod NOT BETWEEN 300 AND 500;
+
+-- lIKE (BUSCA ITENS QUE INICIEM OU TENHAM)
+
+SELECT * FROM produtos
+WHERE Nome_prod LIKE 'M%'; -- (% = QUALQUER COISA, LOGO M% = LETRA M E QUALQUER COISA DPS) ...............................................................
+
+-- NOT LIKE (QUE NÃO TENHAM OS ITENS)
+
+SELECT Nome_prod NOT LIKE 'T';
